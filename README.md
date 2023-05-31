@@ -1,4 +1,4 @@
-# YouTube_Clone_Using_HTML_and_CSS
+# YouTube Clone Using HTML and CSS
 Developed a youtube homepage clone using HTML and CSS. It is static in nature. Developed it for fun and for practice my HTML and CSS skills.
 
 ## Screenshot:
